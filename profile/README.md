@@ -1,4 +1,4 @@
-# aviutl2 User Community
+# AviUtl2 User Community
 
 このOrganizationはこの名前を有用に使うために事前に取得されたものであり、公式や開発関係者による運営ではありません。
 将来的に、KENくん様など信頼できる方からの要望があれば譲渡する予定です。
